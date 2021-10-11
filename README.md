@@ -13,11 +13,11 @@ In this project we'll submit the election audit results to the election commissi
 ### Election-Audit Results: 
 
 
-###How many votes were cast in this congressional election?###
+### How many votes were cast in this congressional election?
 
 There were a 369,711 total votes for the congress election.
 
-###Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.### Not info available
+### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.### Not info available
 
 ###Which county had the largest number of votes?### Not info available 
 
@@ -27,7 +27,7 @@ There were a 369,711 total votes for the congress election.
 - Diana DeGette: 73.8% (272,892)
 - Raymon Anthony Doane: 3.1% (11,606)
 
-###Which candidate won the election, what was their vote count, and what was their percentage of the total votes?###
+### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?###
 
 As we can see in above, Diana DeGette had the largest number of votes with 73.8% 
 
