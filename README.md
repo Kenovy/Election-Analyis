@@ -19,7 +19,7 @@ There were a 369,711 total votes for the congress election.
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.### Not info available
 
-###Which county had the largest number of votes?### Not info available 
+### Which county had the largest number of votes?### Not info available 
 
 **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
