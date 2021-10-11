@@ -6,9 +6,9 @@
 
 In this project we'll submit the election audit results to the election commission, where the main objective is:
 
-Get the voter turnout for each county
-Get the percentage of votes from each county out of the total count
-Get the county with the highest turnout
+-Get the voter turnout for each county
+-Get the percentage of votes from each county out of the total count
+-Get the county with the highest turnout
 
 ### Election-Audit Results: 
 
